@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estel\\Projeto-Computa\u00E7\u00E3o\\Projeto-Comp-princ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA747A6-9914-4B36-9444-F85E80CA407B}|Projeto-Comp-princ.vcxproj|C:\\Users\\estel\\Projeto-Computa\u00E7\u00E3o\\Projeto-Comp-princ\\Projeto-Comp-princ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFA747A6-9914-4B36-9444-F85E80CA407B}|Projeto-Comp-princ.vcxproj|solutionrelative:Projeto-Comp-princ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projeto-Comp-princ.cpp",
+              "DocumentMoniker": "C:\\Users\\estel\\Projeto-Computa\u00E7\u00E3o\\Projeto-Comp-princ\\Projeto-Comp-princ.cpp",
+              "RelativeDocumentMoniker": "Projeto-Comp-princ.cpp",
+              "ToolTip": "C:\\Users\\estel\\Projeto-Computa\u00E7\u00E3o\\Projeto-Comp-princ\\Projeto-Comp-princ.cpp",
+              "RelativeToolTip": "Projeto-Comp-princ.cpp",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAawKAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T22:19:49.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
